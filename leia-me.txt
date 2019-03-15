@@ -1,0 +1,4 @@
+Este aplicativo é um jogo chamado Felpudo Fly. O jogo é similar ao Flappy Bird e foi feito utilizando
+o Godot Engine.
+Nele o jogador sempre deve manter o Felpudo (pássaro) voando, sem tocar as extremidades superior e 
+inferior da tela e sem tocar os canos. Cada cano que o Felpudo atravessa, o jogador ganha um ponto.
